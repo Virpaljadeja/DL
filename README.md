@@ -1,1 +1,1 @@
-# DL
+Malaria is a deadly, infectious mosquito-borne disease caused by Plasmodium parasites. These parasites are transmitted by the bites of infected female Anopheles mosquitoes. While we won’t get into details about the disease, there are five main types of malaria. Let’s now look at the significance of how deadly this disease can be in the following plot.
